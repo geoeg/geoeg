@@ -1,5 +1,4 @@
-### Hi 👋 I'm Georgi, a JS full-stack developer.
-Here's my tech stack:
+## 👨🏻‍💻 Here's my tech stack:
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
